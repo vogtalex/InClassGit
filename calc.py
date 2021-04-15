@@ -5,4 +5,4 @@ def calc(a,b):
 	multiply = a * b
 	divide = a / b
 	list = [sum, sub, multiply, divide]
-	
+	sum (list)
